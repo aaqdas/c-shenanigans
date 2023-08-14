@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "random": "c",
+        "*.tcc": "c",
+        "forward_list": "c",
+        "list": "c",
+        "unordered_map": "c",
+        "unordered_set": "c"
+    }
+}
